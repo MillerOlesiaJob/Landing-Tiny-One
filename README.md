@@ -2,4 +2,5 @@
 
 Сложность шаблона - простой.
 
-https://millerolesiajob.github.io/Tiny-One.io/
+View: 
+https://millerolesiajob.github.io/Landing-Tiny-One.oi/
