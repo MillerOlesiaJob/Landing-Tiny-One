@@ -3,4 +3,4 @@
 Сложность шаблона - простой.
 
 View: 
-https://millerolesiajob.github.io/Landing-Tiny-One.oi/
+https://millerolesiajob.github.io/Landing-Tiny-One/
